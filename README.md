@@ -5,6 +5,8 @@
 ## Introduction
 Word Scrambler is a web application that challenges users to predict the original word from a randomly scrambled version. The project is primarily written in JavaScript, with additional use of CSS and HTML.
 
+![image](https://github.com/user-attachments/assets/7f0ed407-0871-4065-8991-287248a23427)
+
 ## Installation
 To run the Word Scrambler locally, follow these steps:
 
