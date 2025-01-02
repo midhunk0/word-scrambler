@@ -74,3 +74,29 @@ body{
 .buttons .check-word{
     background: #5372F0;
 }
+
+@media (max-width: 496px){
+    .container{
+        width: 90%;
+        padding: 20px;
+    }
+    
+    .container .word{
+        font-size: 24px;
+        letter-spacing: 12px;
+    }
+    
+    .content .details p{
+        font-size: 14px;
+    }
+    
+    .content input{
+        height: 45px;
+        font-size: 14px;
+    }
+    
+    .buttons button{
+        font-size: 14px;
+        padding: 10px 0;
+    }
+}
